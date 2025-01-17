@@ -1,4 +1,4 @@
-# cook_bee
+# cook_bee (Now called NutriGo)
 
 A new Flutter project.
 
