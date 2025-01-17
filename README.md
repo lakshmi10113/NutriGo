@@ -1,4 +1,4 @@
-# cook_bee
+# nutri_go
 
 A new Flutter project.
 
